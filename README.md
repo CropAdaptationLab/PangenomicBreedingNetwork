@@ -1,1 +1,1 @@
-# PBN
+# PangenomicBreedingNetwork
